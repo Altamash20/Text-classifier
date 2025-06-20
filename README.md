@@ -25,7 +25,7 @@ The proposed system aims to predict the presence of sarcasm in a given news head
 <br>
 <b>Library required to build the model</b>:
 <br>
-1. torch<br> 
+<br>1. torch<br> 
 2. transformers<br> 
 3. sklearn<br> 
 4. matplotlib<br> 
