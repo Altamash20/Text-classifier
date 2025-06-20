@@ -12,14 +12,13 @@ The proposed system aims to predict the presence of sarcasm in a given news head
 <br>
 1. Data Collection: Gather news headlines from various journals, articles and newspapers.<br>
 2. Data Preprocessing: Clean and preprocess the collected data to handle missing values, outliers, and inconsistencies.<br>
-3. Machine Learning Algorithm: BERT based algorithm is used to develop the model.
-4)
+3. Machine Learning Algorithm: BERT based algorithm is used to develop the model.<br>
+4. Deployment:
 <br>
-5) Deployment: <br>
-• Develop a user-friendly interface or application that provides real-time sarcasm detection in a given news headline.
-<br>    
-• Deploy the solution on a scalable and reliable platform, considering factors like server infrastructure, response time, and user accessibility.
-<br>
+• Develop a user-friendly interface or application that provides real-time sarcasm detection in a given news headline.<br>
+• Deploy the solution on a scalable and reliable platform, considering factors like server infrastructure, response time, and user accessibility.<br>
+    
+
 6) Evaluation:
 <br>
 • Assess the model's performance using appropriate metrics such as Mean Absolute Error (MAE), Root Mean Squared Error (RMSE), or other relevant metrics.
