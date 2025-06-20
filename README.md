@@ -32,4 +32,11 @@ The proposed system aims to predict the presence of sarcasm in a given news head
 5. numpy<br>
 6. pandas 
 <br>
+<br>
 <b>Training process</b>: It involves first transforming text data into numeric token ids before providing as an input to BERT. Fine tuning of hyper-parameters like Batch size, Number of Epochs and Learning Rate.
+<br>
+<br>
+<b>Result</b>: https://github.com/user-attachments/assets/32f86e6e-21dc-4586-a779-52a404e48800
+<br>
+<br>
+<b>Link to dataset used</b>: https://www.kaggle.com/rmisra/datasets
