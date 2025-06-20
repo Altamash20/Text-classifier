@@ -19,3 +19,14 @@ The proposed system aims to predict the presence of sarcasm in a given news head
 5. <b>Evaluation</b>:
 <br>a) Assess the model's performance using appropriate metrics such as Mean Absolute Error (MAE), Root Mean Squared Error (RMSE), or other relevant metrics.
 <br>b) Fine-tune the model based on feedback and continuous monitoring of prediction accuracy.
+<br>
+<b>System requirements</b>: Compute Engine, Tensor Processing Unit (TPU)
+<br>
+<b>Library required to build the model</b>:
+<br>
+1. torch<br> 
+2. transformers<br> 
+3. sklearn<br> 
+4. matplotlib<br> 
+5. numpy<br>
+6. pandas 
