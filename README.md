@@ -22,7 +22,9 @@ The proposed system aims to predict the presence of sarcasm in a given news head
 <br>
 <b>System requirements</b>: Compute Engine, Tensor Processing Unit (TPU)
 <br>
-<b>Library required to build the model</b>:<br>
+<br>
+<b>Library required to build the model</b>:
+<br>
 1. torch<br> 
 2. transformers<br> 
 3. sklearn<br> 
