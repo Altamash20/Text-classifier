@@ -16,12 +16,15 @@ The proposed system aims to predict the presence of sarcasm in a given news head
 <br>
 3) Machine Learning Algorithm: BERT based algorithm is used to develop the model.
 <br>
-4) Deployment: 
-   • Develop a user-friendly interface or application that provides real-time sarcasm detection in a given news headline. 
-   • Deploy the solution on a scalable and reliable platform, considering factors like server infrastructure, response time, and user accessibility.
+4) Deployment: <br>
+• Develop a user-friendly interface or application that provides real-time sarcasm detection in a given news headline.
+<br>    
+• Deploy the solution on a scalable and reliable platform, considering factors like server infrastructure, response time, and user accessibility.
 <br>
-5) Evaluation: 
-   • Assess the model's performance using appropriate metrics such as Mean Absolute Error (MAE), Root Mean Squared Error (RMSE), or other relevant metrics. 
-   • Fine-tune the model based on feedback and continuous monitoring of prediction accuracy.
+6) Evaluation:
+<br>
+• Assess the model's performance using appropriate metrics such as Mean Absolute Error (MAE), Root Mean Squared Error (RMSE), or other relevant metrics.
+<br> 
+• Fine-tune the model based on feedback and continuous monitoring of prediction accuracy.
 <br>
 <br>
