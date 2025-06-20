@@ -25,9 +25,11 @@ The proposed system aims to predict the presence of sarcasm in a given news head
 <br>
 <b>Library required to build the model</b>:
 <br>
-<br>1. torch<br> 
+1. torch<br> 
 2. transformers<br> 
 3. sklearn<br> 
 4. matplotlib<br> 
 5. numpy<br>
 6. pandas 
+<br>
+<b>Training process</b>: It involves first transforming text data into numeric token ids before providing as an input to BERT. Fine tuning of hyper-parameters like Batch size, Number of Epochs and Learning Rate.
